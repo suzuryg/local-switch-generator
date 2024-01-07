@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "suzuryg",
+    "email": "suzuryg@outlook.com"
+  },
+  "name": "jp.suzuryg.local-switch-generator",
+  "displayName": "LocalSwitchGenerator",
+  "description": "Local switch generation tool for Cluster Creator Kit",
+  "version": "1.0.0",
+  "type": "tool",
+  "license": "SEE LICENSE IN LICENSE",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.timeline": "1.6.4",
+    "mu.cluster.cluster-creator-kit": "1.17.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
